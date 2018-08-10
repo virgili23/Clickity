@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  font-size: 3rem;
+  font-family: 'Quicksand';
+  /*color: #2A77AE;*/
+  color: black;
+  margin-bottom: 10px;
+
+}
+
+.title {
+  float: left;
+}
+
+.scores {
+  float: right;
+}

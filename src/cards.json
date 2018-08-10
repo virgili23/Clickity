@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Yankees",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/NewYorkYankees_JerseyLogo.svg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Boston",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/BostonRedSox_CapLogo.svg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Chicago Cubs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Houston",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Houston_astros_logo.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Giants",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/SF-Giants-Logo.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "white Sox",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Chicago_White_Sox_Insignia.svg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Indians",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cleveland_Indians_primary_logo.svg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Angels",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Los_Angeles_Angels_of_Anaheim.svg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Twins",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/MinnesotaTwins.PNG",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Texas",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Texas_Rangers_logo.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "SD Padres",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/San_Diego_Padres_logo.svg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Oakland",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Oakland_A%27s_logo.svg",
+    "count": 0
+  }
+]
